@@ -89,7 +89,7 @@ This Messaging App is a real-time chat application that allows users to register
 
 
 
-Make sure to replace the placeholders (e.g., `yourusername`, `yoursecretkey`, and other placeholders) with the actual information and content relevant to your project. You should also create additional sections, such as "FAQ" or "Acknowledgments," as needed.
+Make sure to replace the placeholders (e.g., `yourusername`, `yoursecretkey`, `yourmongouri`, and other placeholders) with the actual information and content relevant to your project. You should also create additional sections, such as "FAQ" or "Acknowledgments," as needed.
 
 
 
