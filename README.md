@@ -1,6 +1,5 @@
 # Messaging App
 
-![App Demo](demo-image.png) (Replace with a screenshot or demo gif)
 
 ## Table of Contents
 
@@ -50,9 +49,9 @@ This Messaging App is a real-time chat application that allows users to register
 
 2. **Create a .env file in the root directory with the following variables:**
 
-   PORT=5000
-   MONGO_URI=mongodb://localhost/messaging-app
-   JWT_SECRET=yoursecretkey
+   - PORT=5000
+   - MONGO_URI=mongodb://localhost/messaging-app
+   - JWT_SECRET=yoursecretkey
 
 3. **Install Dependencies:**
 
